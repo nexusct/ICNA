@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/ICNA-Rockford_Deal-Room-Preview.html" }
+  ]
+}
