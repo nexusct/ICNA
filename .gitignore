@@ -1,0 +1,11 @@
+# Vercel project link (contains project/org IDs — not for sharing)
+.vercel
+
+# Local env — holds VERCEL_OIDC_TOKEN
+.env*
+
+# macOS
+.DS_Store
+
+# OMC tooling state
+.omc/
