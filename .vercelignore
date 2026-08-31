@@ -1,0 +1,7 @@
+# 18MB zip that duplicates every file already served individually — no reason to host it
+Archive.zip
+
+.git
+.omc
+.DS_Store
+.env*

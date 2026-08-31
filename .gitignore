@@ -9,3 +9,6 @@
 
 # OMC tooling state
 .omc/
+
+# Local deployment bundle
+Archive.zip
