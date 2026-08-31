@@ -12,3 +12,6 @@
 
 # Local deployment bundle
 Archive.zip
+
+# 18MB zip duplicating files already tracked individually
+Archive.zip
